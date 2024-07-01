@@ -1,6 +1,6 @@
 # Basit Hesap Makinesi (Kotlin İlk Projem)
 
-+ Atıl Samancıoğlu'ndan aldığım "Android Mobil Uygulama Kursu: Kotlin & Java" kursundaki ilk ödevimi paylaşıyorum.
++ Kotlin öğrenirken yaptığım ilk projem. Basit Hesap Makinesi.
 
 ## Temel Özellikler:
 
